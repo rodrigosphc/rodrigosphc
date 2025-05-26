@@ -33,7 +33,7 @@ Crio soluções personalizadas com Arduino, CLPs (GX Works3), prototipagem eletr
 📌 **Links úteis**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-ramos-de-mello-983224137)
-- 🎓 [Perfil na Alura](https://www.alura.com.br) *(adicione seu link real aqui)*
+- 🎓 [Perfil na Alura](https://www.alura.com.br) *(https://cursos.alura.com.br/user/guigo-ooriginal)*
 - ✉️ rodrigo_rrm1@hotmail.com
 
 ---
